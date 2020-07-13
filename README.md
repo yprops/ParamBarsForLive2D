@@ -1,6 +1,8 @@
 # ParamBarsForLive2D
 The Live2D model contains many slider bars which show all "Standard Parameters" of Live2D model and FaceRig's additional parameters. 
 
+https://twitter.com/yprops1/status/1282558304678375424
+
 このデータは、Live2Dの全パラメータをリアルタイムで一覧するためのLive2Dモデルデータです。
 Live2D標準パラメータ＋FaceRig用パラメータを全てスライダーバーとして表示します。
 
