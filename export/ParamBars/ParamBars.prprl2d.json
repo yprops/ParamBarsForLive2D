@@ -1,0 +1,44 @@
+
+{
+    "customName" : "ParamBars",
+    "iconPath"   : "",
+    "bodyPhysics" : 0.6,
+    "modelPos"    : {
+        "x" : -0.264999389648438,
+        "y" : 0.73999947309494,
+        "z" : -0.800000011920929
+    },
+    "modelSize"   : {
+        "x" : 8.39999866485596,
+        "y" : 8.39999866485596,
+        "z" : 5.0
+    },
+    "modelAngle"  : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+    },
+    "capsuleRadius" : 1.679999,
+    "capsuleHeight" : 6.719998,
+    "capsulePos"    : {
+        "x" : -0.264999389648438,
+        "y" : 1.73999869823456,
+        "z" : -1.79999995231628
+    },
+    "keys"          : [
+        {
+            "type" : 0,
+            "bindAction" : "-1",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    48
+                ],
+                "actionName" : "",
+                "isGlobal"   : false,
+                "isApply"    : true
+            }
+        }
+    ],
+    "L2DName"       : "",
+    "mapIsGlobal"   : false
+}
